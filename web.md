@@ -28,7 +28,7 @@ Preview of the feature change (if applicable)
 - [ ] Does the code pass the DeepSource analysis (code quality check)?
 
 #### **Manual Testing**
-- [ ] Have you manually tested the feature across different browsers and devices? (Chrome, Firefox, Safari, Edge, mobile, tablet, etc.)
+- [ ] Have you manually tested the feature across different browsers and devices? (Chrome, Firefox, Safari, mobile, tablet, etc.)
 - [ ] Have you tested edge cases (e.g., empty inputs, boundary values)?
 - [ ] Have you verified all impacted user flows (including Creator flows)?
 - [ ] Have you checked mobile responsiveness
