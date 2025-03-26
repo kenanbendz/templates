@@ -30,7 +30,7 @@ Preview of the feature change (if applicable)
 #### **Manual Testing**
 - [ ] Have you manually tested the feature across different devices? (Simulator, Android, iOS, etc.)
 - [ ] Have you tested edge cases (e.g., empty inputs, boundary values)?
-- [ ] Have you verified all impacted user flows?
+- [ ] Have you verified all impacted user flows (including Creator flows)?
 - [ ] Have you tested on mobile, tablet, and desktop (if applicable)?
 
 #### **UI/UX**
