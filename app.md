@@ -19,7 +19,7 @@ Preview of Feature change (if applicable)
 
 ### ✅ Checklist
 #### Code Functionality
-- [ ] Does the code behave as expected locally?
+- [ ] Does the code behave as expected locally and show no errors?
 - [ ] Does the code implement the described feature correctly?
 - [ ] Have you added tests for this change? (Unit tests, E2E tests, etc.)
 - [ ] Do the tests pass successfully in CI?
@@ -33,7 +33,6 @@ Preview of Feature change (if applicable)
 
 #### UI/UX
 - [ ] Does the UI match the design specifications (if applicable)?
-- [ ] Are there any UI inconsistencies or visual bugs?
 - [ ] Is the app accessible (screen readers, keyboard navigation)?
   
 #### Simulator & Device Testing
