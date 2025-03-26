@@ -1,41 +1,42 @@
 ## 📋 **PR Validation Checklist**
 
-| **Section**                | **Details**                                                                                                                                                   |
-|:----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Summary of PR**     | [Briefly explain what this PR is doing, what feature it implements or what bug it fixes.]                                                                                            |
-| **Linked Issue**            | [Link to the ClickUp issue or task related to this PR]                                                                                                                |                                                                                                                                                      |
-| **Dependencies**            | [Mention if this PR depends on other changes or needs special setup]                                                                                        |
-
----
-### Preview
-Preview of Feature change (if applicable)
-
-| **Before**                                  | **After**                                   |
-|:---------------------------------------------|:---------------------------------------------|
-| ![Screenshot of the feature before change]  | ![Screenshot of the feature after change]   |
-
+| **Section**            | **Details**                                                                                              |
+|:-----------------------|:---------------------------------------------------------------------------------------------------------|
+| **PR Summary**          | [Briefly describe the purpose of this PR, the feature it implements, or the bug it fixes.]                |
+| **Linked Issue**        | [Provide the link to the related ClickUp issue or task.]                                                  |
+| **Dependencies**        | [List any dependencies or special setup required for this PR.]                                           |
 
 ---
 
-### ✅ Checklist
-#### Code Functionality
-- [ ] Does the code behave as expected locally and show no errors?
-- [ ] Does the code implement the described feature correctly?
-- [ ] Have you added tests for this change? (Unit tests, E2E tests, etc.)
-- [ ] Do the tests pass successfully in CI?
-- [ ] Does the code pass successfully in DeepSource (Code analysis)
+### **Preview**
 
-#### Manual Testing
-- [ ] Have you tested the feature manually across different devices? (Simulator, Android, iOS, etc.)
+Preview of the feature change (if applicable)
+
+| **Before**                                      | **After**                                       |
+|:-----------------------------------------------|:-----------------------------------------------|
+| ![Screenshot of the feature before change]     | ![Screenshot of the feature after change]       |
+
+---
+
+### ✅ **Testing Checklist**
+
+#### **Code Functionality**
+- [ ] Does the code behave as expected locally without errors?
+- [ ] Does the code correctly implement the described feature?
+- [ ] Have you added tests for this change (unit tests, E2E tests, etc.)?
+- [ ] Do all tests pass successfully in CI?
+- [ ] Does the code pass the DeepSource analysis (code quality check)?
+
+#### **Manual Testing**
+- [ ] Have you manually tested the feature across different devices? (Simulator, Android, iOS, etc.)
 - [ ] Have you tested edge cases (e.g., empty inputs, boundary values)?
-- [ ] Have you verified all possible user flows that might be affected by this change?
+- [ ] Have you verified all impacted user flows?
 - [ ] Have you tested on mobile, tablet, and desktop (if applicable)?
 
-#### UI/UX
+#### **UI/UX**
 - [ ] Does the UI match the design specifications (if applicable)?
-- [ ] Is the app accessible (screen readers, keyboard navigation)?
-  
-#### Simulator & Device Testing
-- [ ] Have you tested the app in multiple browsers? (Chrome, Firefox, Safari, Edge)
-- [ ] Have you checked for mobile responsiveness on all relevant devices?
+- [ ] Is the app accessible to users with assistive technology (screen readers, keyboard navigation)?
 
+#### **Simulator & Device Testing**
+- [ ] Have you tested the app in multiple browsers? (Chrome, Firefox, Safari, Edge)
+- [ ] Have you checked mobile responsiveness on all relevant devices?
