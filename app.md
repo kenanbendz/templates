@@ -37,6 +37,3 @@ Preview of the feature change (if applicable)
 - [ ] Does the UI match the design specifications (if applicable)?
 - [ ] Is the app accessible to users with assistive technology (screen readers, keyboard navigation)?
 
-#### **Simulator & Device Testing**
-- [ ] Have you tested the app in multiple browsers? (Chrome, Firefox, Safari, Edge)
-- [ ] Have you checked mobile responsiveness on all relevant devices?
