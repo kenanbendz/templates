@@ -2,9 +2,8 @@
 
 | **Section**                | **Details**                                                                                                                                                   |
 |:----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **General Information**     |                                                                                                                                                                                                                                                           |
+| **Summary of PR**     | [Briefly explain what this PR is doing, what feature it implements or what bug it fixes.]                                                                                            |
 | **Linked Issue**            | [Link to the ClickUp issue or task related to this PR]                                                                                                                |                                                                                                                                                      |
-| **Description of Changes**   | [Briefly explain what this PR is doing, what feature it implements or what bug it fixes.]                                                                    |
 | **Dependencies**            | [Mention if this PR depends on other changes or needs special setup]                                                                                        |
 
 ---
