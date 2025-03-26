@@ -31,7 +31,7 @@ Preview of the feature change (if applicable)
 - [ ] Have you manually tested the feature across different browsers and devices? (Chrome, Firefox, Safari, mobile, tablet, etc.)
 - [ ] Have you tested edge cases (e.g., empty inputs, boundary values)?
 - [ ] Have you verified all impacted user flows (including Creator flows)?
-- [ ] Have you checked mobile responsiveness
+- [ ] Have you checked mobile responsiveness?
 
 #### **UI/UX**
 - [ ] Does the UI match the design specifications (if applicable)?
