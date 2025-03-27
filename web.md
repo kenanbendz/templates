@@ -24,8 +24,6 @@ Preview of the feature change (if applicable)
 - [ ] Does the code behave as expected locally without errors?
 - [ ] Does the code correctly implement the described feature?
 - [ ] Have you added tests for this change (unit tests, E2E tests, etc.)?
-- [ ] Do all tests pass successfully in CI?
-- [ ] Does the code pass the DeepSource analysis (code quality check)?
 
 #### **Manual Testing**
 - [ ] Have you manually tested the feature across different browsers and devices? (Chrome, Firefox, Safari, mobile, tablet, etc.)
